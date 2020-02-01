@@ -15,3 +15,5 @@ make sure you have set `$GOPATH`
 ```docker-compose up``` for cassandra 
 
 ```go get -u github.com/gocql/gocql```
+
+```go get -u github.com/mercadolibre/golang-restclient```
