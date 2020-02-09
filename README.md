@@ -19,3 +19,5 @@ make sure you have set `$GOPATH`
 ```go get -u github.com/mercadolibre/golang-restclient```
 
 ```go get -u github.com/gorilla/mux ```
+
+```go get -u github.com/olivere/elastic ```
